@@ -19,14 +19,15 @@ _ [React-Toastify] (https://www.npmjs.com/package/react-toastify) - React Toasti
 
 
 #### Sreenshot
-![alt text](https://github.com/mgznxx/docs/Inicio.jpg)
-![alt text](https://github.com/mgznxx/docs/Modo Oscuro.jpg)
-![alt text](https://github.com/mgznxx/docs/Category Salud.jpg)
-![alt text](https://github.com/mgznxx/docs/Category Idiomas.jpg)
-![alt text](https://github.com/mgznxx/docs/Category Computacion.jpg)
-![alt text](https://github.com/mgznxx/docs/Seleccionar.jpg)
-![alt text](https://github.com/mgznxx/docs/Finalizar Compra.jpg)
-![alt text](https://github.com/mgznxx/docs/Comprobacion Email.jpg)
-![alt text](https://github.com/mgznxx/docs/Orden compra.jpg)
-![alt text](https://github.com/mgznxx/docs/Toast.jpg)
+![alt text](https://github.com/mgznxx/TPFinal-React-CoderHouse/blob/main/docs/Inicio.jpg)
+![alt text](https://github.com/mgznxx/TPFinal-React-CoderHouse/blob/main/docs/ModoOscuro.jpg)
+![alt text](https://github.com/mgznxx/TPFinal-React-CoderHouse/blob/main/docs/CategorySalud.jpg)
+![alt text](https://github.com/mgznxx/TPFinal-React-CoderHouse/blob/main/docs/CategoryIdiomas.jpg)
+![alt text](https://github.com/mgznxx/TPFinal-React-CoderHouse/blob/main/docs/CategoryComputacion.jpg)
+![alt text](https://github.com/mgznxx/TPFinal-React-CoderHouse/blob/main/docs/Seleccionar.jpg)
+![alt text](https://github.com/mgznxx/TPFinal-React-CoderHouse/blob/main/docs/FinalizarCompra.jpg)
+![alt text](https://github.com/mgznxx/TPFinal-React-CoderHouse/blob/main/docs/ComprobacionEmail.jpg)
+![alt text](https://github.com/mgznxx/TPFinal-React-CoderHouse/blob/main/docs/OrdenCompra.jpg)
+![alt text](https://github.com/mgznxx/TPFinal-React-CoderHouse/blob/main/docs/Toast.jpg)
+ 
 
