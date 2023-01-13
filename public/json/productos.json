@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "idCategoria": "Salud",
+        "nombre": "Auxiliar de Enfermería",
+        "marca": "6 meses",
+        "modelo": "Salud",
+        "precio": 3000,
+        "stock": 10,
+        "img": "https://firebasestorage.googleapis.com/v0/b/final-react---2023.appspot.com/o/Enfer.jpg?alt=media&token=3f6b0511-1349-42ed-b88f-c417c342c0f6"
+    },
+    {
+        "id": 2,
+        "idCategoria": "Salud",
+        "nombre": "Auxiliar de Farmacia",
+        "marca": "6 meses",
+        "modelo": "Salud",
+        "precio": 3000,
+        "stock": 20,
+        "img": "https://firebasestorage.googleapis.com/v0/b/final-react---2023.appspot.com/o/Far.jpg?alt=media&token=5a7dd51e-6a0a-4208-ad86-297a105d18fd"
+    },
+    {
+        "id": 3,
+        "idCategoria": "Salud",
+        "nombre": "Acompañante Terapéutico",
+        "marca": "6 meses",
+        "modelo": "Salud",
+        "precio": 3000,
+        "stock": 15,
+        "img": "https://firebasestorage.googleapis.com/v0/b/final-react---2023.appspot.com/o/AT.jpg?alt=media&token=48d3ab3f-f880-477c-8c64-6ee5a173ab3a"
+    },
+    {
+        "id": 4,
+        "idCategoria": "Idiomas",
+        "nombre": "Inglés",
+        "marca": "4 años",
+        "modelo": "Idioma",
+        "precio": 3000,
+        "stock": 30,
+        "img": "https://firebasestorage.googleapis.com/v0/b/final-react---2023.appspot.com/o/Ingles.jpg?alt=media&token=4fa112fe-1522-4756-a6c8-45dafe4ff4c7"
+    },
+    {
+        "id": 5,
+        "idCategoria": "Idiomas",
+        "nombre": "Portugués",
+        "marca": "4 años",
+        "modelo": "Idioma",
+        "precio": 3000,
+        "stock": 7,
+        "img": "https://firebasestorage.googleapis.com/v0/b/final-react---2023.appspot.com/o/Port.jpg?alt=media&token=68680605-c3aa-43d1-a825-7d154f55736e"
+    },
+    {
+        "id": 6,
+        "idCategoria": "Computacion",
+        "nombre": "Operador de Pc",
+        "marca": "6 meses",
+        "modelo": "Computación",
+        "precio": 3000,
+        "stock": 10,
+        "img": "https://firebasestorage.googleapis.com/v0/b/final-react---2023.appspot.com/o/PC.jpg?alt=media&token=6be83e9e-4e4a-49c0-b0c4-5f0044cad829"
+    },
+    {
+        "id": 7,
+        "idCategoria": "Computacion",
+        "nombre": "Diseño Gráfico",
+        "marca": "6 meses",
+        "modelo": "Computación",
+        "precio": 3000,
+        "stock": 12,
+        "img": "https://firebasestorage.googleapis.com/v0/b/final-react---2023.appspot.com/o/DG.jpg?alt=media&token=218dd46e-1739-4203-8657-4362381baa89"
+    }
+    
+
+]
